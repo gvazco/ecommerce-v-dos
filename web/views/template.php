@@ -41,6 +41,7 @@ $path = TemplateController::path();
   <div class="wrapper">
 
     <?php
+    include "modules/top.php";
     include "modules/navbar.php";
     include "modules/sidebar.php";
     ?>
