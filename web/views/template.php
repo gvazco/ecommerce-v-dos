@@ -15,6 +15,9 @@ $path = TemplateController::path();
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+
+  <!-- CSS --->
+
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/plugins/fontawesome-free/css/all.min.css">
 
@@ -23,6 +26,8 @@ $path = TemplateController::path();
 
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/plugins/adminlte/adminlte.min.css">
+
+  <!-- JS -->
 
   <!-- jQuery -->
   <script src="<?php echo $path ?>views/assets/js/plugins/jquery/jquery.min.js"></script>
