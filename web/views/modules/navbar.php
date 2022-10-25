@@ -49,33 +49,33 @@
 
             <ul class="border-0 shadow ps-3 d-block d-lg-none">
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa para dama</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Dama</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa para Hombre</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Hombre</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa deportiva</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Deportiva</a>
               </li>
 
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa infantil</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Infantil</a>
               </li>
             </ul>
 
             <ul aria-labelledby="dropdownSubMenu2" class="dropdown-menu border-0 shadow">
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa para dama</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Dama</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa para Hombre</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Hombre</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa deportiva</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Deportiva</a>
               </li>
 
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Ropa infantil</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Ropa Infantil</a>
               </li>
             </ul>
           </li>
@@ -89,33 +89,33 @@
 
             <ul class="border-0 shadow ps-3 d-block d-lg-none">
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado para dama</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Dama</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado para Hombre</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Hombre</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado deportiva</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Deportivo</a>
               </li>
 
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado infantil</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Infantil</a>
               </li>
             </ul>
 
             <ul aria-labelledby="dropdownSubMenu2" class="dropdown-menu border-0 shadow">
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado para dama</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Dama</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado para Hombre</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Hombre</a>
               </li>
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado deportiva</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Deportivo</a>
               </li>
 
               <li>
-                <a tabindex="-1" href="#" class="dropdown-item">Calzado infantil</a>
+                <a tabindex="-1" href="#" class="dropdown-item">Calzado Infantil</a>
               </li>
             </ul>
           </li>
